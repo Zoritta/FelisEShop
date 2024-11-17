@@ -28,3 +28,4 @@ C:\Users\zohrs\OneDrive\Documents\School\C# Course\FelisEShop\obj\Debug\net8.0\r
 C:\Users\zohrs\OneDrive\Documents\School\C# Course\FelisEShop\obj\Debug\net8.0\FelisEShop.pdb
 C:\Users\zohrs\OneDrive\Documents\School\C# Course\FelisEShop\obj\Debug\net8.0\FelisEShop.genruntimeconfig.cache
 C:\Users\zohrs\OneDrive\Documents\School\C# Course\FelisEShop\obj\Debug\net8.0\ref\FelisEShop.dll
+C:\Users\zohrs\OneDrive\Documents\School\C# Course\FelisEShop\obj\Debug\net8.0\FelisEShop.sourcelink.json
